@@ -68,7 +68,7 @@ As you could see, ([combineAndGetUpdateValue(), getInsertValue()](https://github
 
 ### How do I delete records in the dataset using Hudi?
 
-GDPR has made deletes a must-have tool in everyone's data management toolbox. Hudi supports both soft and hard deletes. For details on how to actually perform them, see [here](writing_data#deletes).
+GDPR has made deletes a must-have tool in everyone's data management toolbox. Hudi supports both soft and hard deletes. For details on how to actually perform them, see [here](../writing_data#deletes).
 
 ### Should I need to worry about deleting all copies of the records in case of duplicates?
 
